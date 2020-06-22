@@ -1,10 +1,8 @@
 # Air Pollution in the Tristate Area: Trends & Health Effects
 
-We examined the trends in outdoor air quality, based on established air quality indicators, from the U.S. Environmental Protection Agency (EPA). We also examined potential trends in the temporal associations between air pollutants and specific health effects in humans.
-
 Project Overview:
 
-We examined the trends in outdoor air quality, based on established air quality indicators, from the U.S. Environmental Protection Agency (EPA). We also examined potential trends in the temporal associations between air pollutants and specific health effects in humans. 
+We examined the trends in outdoor air quality based on established air quality indicators from the U.S. Environmental Protection Agency (EPA). We also examined potential trends in the temporal associations between air pollutants and specific health effects in humans. 
 
 Key Questions:
 
