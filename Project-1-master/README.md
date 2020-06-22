@@ -35,16 +35,5 @@ Python
 VS Studio
 Jupyter Notebook
 
-Contributing
-
-
-Versioning
-
-
 Authors
 Zuhair Shahzad, Saniya Sule, Eric Meyer, Parag Patel, Bhavani Sathya
-
-License
-
-
-Acknowledgments
